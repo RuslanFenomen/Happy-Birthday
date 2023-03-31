@@ -54,7 +54,7 @@ canvas {
 .my_contact {
   position: absolute;
   bottom: 50px;
-  left: 0;
+  left: 50%;
   transform: translateX(-50%);
   width: 320px;
   color: #fff;
