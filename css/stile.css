@@ -51,6 +51,20 @@ canvas {
   opacity:0.65;
 }
 
+.my_contact {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  transform: translateX(-50%);
+  width: 320px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.my_link {
+  color: #2d54b0;
+}
 
 button {
   background-color: rgba(255, 255, 255, 0);
